@@ -117,11 +117,11 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@lyonbot](https://github.com/lyonbot) | 2 |
 | [@atty303](https://github.com/atty303) | 2 |
 | [@jcubic](https://github.com/jcubic) | 2 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@DanielRuf](https://github.com/DanielRuf) | 2 |
 | [@dreamlayers](https://github.com/dreamlayers) | 2 |
 | [@linfaxin](https://github.com/linfaxin) | 1 |
 | [@nzinfo](https://github.com/nzinfo) | 1 |
-| [@matteo-cristino](https://github.com/matteo-cristino) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
